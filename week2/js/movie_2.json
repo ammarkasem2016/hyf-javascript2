@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Whitney: Can I Be Me",
+        "model": "2017",
+        "type": {
+            "writers": ["Nick Broomfield","Rudi Dolezal"],
+            "stars": ["Whitney Houston","Bobbi Kristina Brown"]
+        },
+        "rate": " 6.4 / 10 "
+    },
+    {
+        "name": "Leap",
+        "model": "2017",
+        "type": {
+            "writers": ["Kasia Wezowski","Patryk Wezowski"],
+            "stars": ["Hisham Abdalla","Tara Antler"]
+        },
+        "rate": " 7.8 / 10 "
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Inside Job",
+        "model": "2010",
+        "type": {
+            "writers": ["Charles Ferguson","Chad Beck"],
+            "stars": ["Matt Damon","Gylfi Zoega"]
+        },
+        "rate": " 8.3 / 10 "
+    },
+    {
+        "name": "Icarus",
+        "model": "2017",
+        "type": {
+            "writers": ["Jon Bertain","Bryan Fogel"],
+            "stars": ["Bryan Fogel","Nikita Kamaev"]
+        },
+        "rate": " 8.1 / 10 "
+    }
+]
