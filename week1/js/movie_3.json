@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Earthlings",
+        "model": "2005",
+        "type": {
+            "writers": ["Shaun Monson"," "],
+            "stars": ["Joaquin Phoenix"," "]
+        },
+        "rate": " 8.7 / 10 "
+    },
+    {
+        "name": "What the Health",
+        "model": "2017",
+        "type": {
+            "writers": ["Kip Andersen","Keegan Kuhn"],
+            "stars": ["Kip Andersen","Larry Baldwin"]
+        },
+        "rate": " 8.1 / 10 "
+    }
+]

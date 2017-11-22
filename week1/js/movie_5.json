@@ -1,0 +1,20 @@
+[
+    {
+        "name": "The Red Pill",
+        "model": "2016",
+        "type": {
+            "writers": ["Cassie Jaye"," "],
+            "stars": ["Marc Angelucci","Jack Barnes"]
+        },
+        "rate": " 8.6 / 10 "
+    },
+    {
+        "name": "Banking on Bitcoin",
+        "model": "2016",
+        "type": {
+            "writers": ["Christopher Cannucciari","Prichard Smith"],
+            "stars": ["Wences Casares","Nathanial Popper"]
+        },
+        "rate": " 6.6 / 10 "
+    }
+]
